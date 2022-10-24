@@ -6,11 +6,11 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#fff19a",
   "repository": "ecomplus-stores/lagosepeixes",
   "logo": "/img/uploads/logonovasitelagosepeixes.png",
   "name": "lagosepeixes",
-  "short_name": "lagosepeixes",
+  "short_name": "Lagos & Peixes Consultoria e Piscicultura",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#fff19a",
   "icon": "/img/uploads/favicongrande.png",
   "store_id": 8070,
-  "description": "lagosepeixes",
+  "description": "Desenvolvimento de projetos para Aquicultura, Aquaponia e Lagos Ornamentais",
   "large_icon": "/img/uploads/favicongrande.png"
 }
