@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Sempre os melhores produtos com as melhores condições!",
-    "link": ""
+    "link": "",
+    "background": "#012e61"
   },
   "contacts_stripe": {
     "pages": [
