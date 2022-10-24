@@ -1,5 +1,5 @@
 {
-  "css": ".header {background: #FFF19A;}\n.footer {background: #FFF19A;}\n.h1 {color: #012E61;}\nbody {background: #FFF19A;}\n#page-products {background: #FFF19A}\n.footer__title.footer__store + p { color: #012E61 !important; }\n.collection-shelf section {background-color: #FFF19A !important;}",
+  "css": ".header {background: #FFF19A;}\n.footer {background: #FFF19A;}\n.h1 {color: #012E61;}\nbody {background: #FFF19A;}\n#page-products {background: #FFF19A}\n.footer__title.footer__store + p { color: #012E61 !important; }\n.collection-shelf section {background-color: #FFF19A !important;}\n.footer * { color: #012E61 !important;; }",
   "html_head": "",
   "html_body": ""
 }
