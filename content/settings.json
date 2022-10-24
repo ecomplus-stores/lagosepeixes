@@ -1,7 +1,8 @@
 {
   "store_id": 8070,
   "name": "lagosepeixes",
-  "domain": "lagosepeixes.netlify.app",
+  "domain": "lagosepeixes.com.br",
+  "repository": "ecomplus-stores/lagosepeixes",
   "short_name": "lagosepeixes",
   "description": "lagosepeixes",
   "primary_color": "#222831",
