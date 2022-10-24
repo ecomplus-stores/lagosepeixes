@@ -1,5 +1,5 @@
 {
-  "css": ".header {background: #FFF19A;}\n.footer {background: #FFF19A;}\n.body {background: #FFF19A;}",
+  "css": ".header {background: #FFF19A;}\n.footer {background: #FFF19A;}\nbody {background: #FFF19A;}",
   "html_head": "",
   "html_body": ""
 }
