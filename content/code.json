@@ -1,5 +1,5 @@
 {
-  "css": ".header {background: #FFF19A;}\n.footer {background: #FFF19A;}\n.h1 {color: #012E61;}\nbody {background: #FFF19A;}\n#page-products {background: #FFF19A}\n.footer__title.footer__store + p { color: #012E61 !important; }\n.collection-shelf section {background-color: #FFF19A !important;}\n.footer * { color: #012E61 !important;}\n.products-carousel__title span {color: #FFF19A}\n.product-card__buy button {\n  display: none\n}\n.product-card__buy::after {\n  content: 'Comprar';\n  background-color: var(--primary);\n  color: var(--primary-yiq);\n  display: inline-block;\n  width: 100%;\n  text-align: center;\n  padding: 7px;\n}",
+  "css": ".header {background: #FFF19A;}\n.footer {background: #FFF19A;}\n.h1 {color: #012E61;}\nbody {background: #FFF19A;}\n#page-products {background: #FFF19A}\n.footer__title.footer__store + p { color: #012E61 !important; }\n.collection-shelf section {background-color: #FFF19A !important;}\n.footer * { color: #012E61 !important;}\n.products-carousel__title span {color: #FFF19A}",
   "html_head": "",
   "html_body": ""
 }
