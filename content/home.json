@@ -27,7 +27,7 @@
       "collection_id": null,
       "sort": "offers",
       "title": "Produtos mais vendidos",
-      "headless": true,
+      "headless": false,
       "limit": 12,
       "page": 1
     }
