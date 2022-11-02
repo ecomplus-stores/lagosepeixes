@@ -9,8 +9,8 @@
       "slides": [
         {
           "img": "/img/uploads/banner1.png",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "link": "/",
+          "alt": "Home",
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/banner1mobile.png"
