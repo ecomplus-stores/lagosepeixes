@@ -14,6 +14,14 @@
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/banner1mobile.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banners-site-oceantech.png",
+          "link": "/bombasubmersa",
+          "alt": "Bomba Submersa",
+          "mobile_img": "/img/uploads/banners-mobile-oceantech.png"
         }
       ]
     },
