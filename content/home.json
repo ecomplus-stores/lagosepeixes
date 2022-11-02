@@ -22,6 +22,12 @@
           "link": "/bombasubmersa",
           "alt": "Bomba Submersa",
           "mobile_img": "/img/uploads/banners-mobile-oceantech-1.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banners-site-novocliente.png",
+          "mobile_img": "/img/uploads/banners-mobile-novocliente.png"
         }
       ]
     },
