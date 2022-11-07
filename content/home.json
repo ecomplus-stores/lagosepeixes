@@ -28,6 +28,13 @@
           "end": "",
           "img": "/img/uploads/banners-site-novocliente.png",
           "mobile_img": "/img/uploads/banners-mobile-novocliente.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-site-blackfriday.png",
+          "link": "https://lagosepeixes.com.br/pages/black-friday",
+          "mobile_img": "/img/uploads/banner-mobile-blackfriday.png"
         }
       ]
     },
