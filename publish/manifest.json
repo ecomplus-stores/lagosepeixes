@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.800fb1911991a399dd6af714d3c944eb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.7a8c8b8848f1b74665dbeb637834f590.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.57d9f1a73fff8341dabb0345b677d2ee.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.9753e02ca4accfd33d62af025bd7c72b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.92324e68a592c6fa038d8848660a26fd.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Lagos & Peixes Consultoria e Piscicultura",
+  "short_name": "Lagos & Peixes Consultoria e Piscicultura",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Desenvolvimento de projetos para Aquicultura, Aquaponia e Lagos Ornamentais",
+  "background_color": "#fff19a",
+  "theme_color": "#012e61"
+}
